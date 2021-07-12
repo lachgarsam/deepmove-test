@@ -1,0 +1,16 @@
+tensorflow_gpu
+numpy
+pandas
+scipy
+opencv-python-headless
+matplotlib 
+click==6.7
+Flask==1.1.2
+Flask-WTF==0.14.2
+gunicorn==19.6.0
+itsdangerous==0.24
+cryptography
+MarkupSafe==0.23
+passlib==1.7.1
+Werkzeug
+WTForms==2.1
